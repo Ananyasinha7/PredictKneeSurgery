@@ -1,6 +1,7 @@
 # 🦵 PredictKneeSurgery
 
 **PredictKneeSurgery** is an AI-powered tool designed to predict the necessity of knee surgery based on both patient input (age, gender, BMI) and knee X-ray images. The model utilizes **ResNet18** for image classification to assess the severity of osteoarthritis and provides **GradCAM** visualizations to highlight affected regions in the knee. While still under development, this tool provides a foundation for future advancements in osteoarthritis prediction and surgery decision support.
+
 **Colab Link: https://colab.research.google.com/drive/1fWD9lJ8hLxlekxSx50ghxbsLZJhp_-jf#scrollTo=_xk-hR5wjQ4W**
 
 ---
